@@ -20,7 +20,7 @@ Comme il s'agit d'un challenge Web Client et que c'est son nom, je suppose que l
 4. Dans la boucle de validation du formulaire, je trouve l'identifiant et le mot de passe nécessaire
 5. Je les utilise dans le formulaire et obtiens le mot de passe
 
-## Difficultés rencontrés
+## Difficultés rencontrées
 Il m'a fallu trouver comment analyser le code Javascript pour trouver les informations nécessaires à la réalisation du challenge.
 
 ## Résolution

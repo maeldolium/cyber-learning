@@ -24,7 +24,7 @@ Comme il s'agit d'un challenge Web Client et ayant comme sujet Javascript, je su
 La protection reposait sur une pop-up à valider à l'aide d'un mot de passe stocké en clair dans le code JS. 
 Analyser le code JS permet de trouver le code, de valider la pop-up et d'obtenir le mot de passe du challenge.
 
-## Difficultés rencontrés
+## Difficultés rencontrées
 Pas de difficulté particulière rencontrée pour ce challenge.
 
 ## Apprentissage
